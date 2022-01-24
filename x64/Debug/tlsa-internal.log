@@ -1,0 +1,14 @@
+﻿C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\MSBuild\Current\Bin\Microsoft.Common.CurrentVersion.targets(5470,5): warning MSB3061: Unable to delete file "C:\Users\atolk\Documents\GitHub\tlsa-internal\x64\Debug\tlsa-internal.dll". Access to the path 'C:\Users\atolk\Documents\GitHub\tlsa-internal\x64\Debug\tlsa-internal.dll' is denied.
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\MSBuild\Microsoft\VC\v160\Microsoft.CppClean.targets(77,5): warning : Access to the path 'c:\users\atolk\documents\github\tlsa-internal\x64\debug\tlsa-internal.dll' is denied.
+  cheats.cpp
+  dllmain.cpp
+C:\Users\atolk\Documents\GitHub\tlsa-internal\dllmain.cpp(105,34): warning C4244: '=': conversion from 'LONG' to 'float', possible loss of data
+C:\Users\atolk\Documents\GitHub\tlsa-internal\dllmain.cpp(106,34): warning C4244: '=': conversion from 'LONG' to 'float', possible loss of data
+  imgui.cpp
+  imgui_demo.cpp
+  imgui_draw.cpp
+  imgui_impl_dx11.cpp
+  imgui_impl_win32.cpp
+  imgui_widgets.cpp
+  Generating Code...
+  tlsa-internal.vcxproj -> C:\Users\atolk\Documents\GitHub\tlsa-internal\x64\Debug\tlsa-internal.dll
